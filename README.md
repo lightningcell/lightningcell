@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm... I'm a Python addict.**
 
+<a href='https://www.buymeacoffee.com/hamidsimsek'><img alt="Buy me a coffee or more..." src='https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png' width=200></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamitlightning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamitlightning" height="30" width="40" /></a>
