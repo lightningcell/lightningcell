@@ -1,5 +1,5 @@
 # ⚡️ Hamit Şimşek ⚡️
-💥  Boom ! I develop libraries, bots, games...<br>🎈  Also I'm using Low-Code Development Platforms. That's... That's impressive yeah.<br>🐍  I love Python ! It's pretty obvious...<br>🎱 Do you know [**Deverdock*](https://www.deverdock.com)... I know, not yet...
+💥  Boom ! I develop libraries, bots, games...<br>🎈  Also I'm using Low-Code Development Platforms. That's... That's impressive yeah.<br>🐍  I love Python ! It's pretty obvious...
 
 
 ## 🌐 Socials:
